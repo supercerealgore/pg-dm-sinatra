@@ -29,7 +29,7 @@ DataMapper.setup(:default, {
   :username => db_username,
   :password => db_password,
   :host     => db_host,
-  :port   	=> db_port,
+  :port     => db_port,
   :encoding => db_encoding  
 })
 
